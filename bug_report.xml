@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bug_report>
+  <Summary>Menu:error, at the entrance</Summary>
+  <Type>Bug</Type>
+    <Priority>Medium</Priority>
+  <Severity>Major</Severity>
+  <AffectsVersion>1.0</AffectsVersion>
+  <Enviroment>Windows 10 Pro, Google Chrome 98</Enviroment>
+    <Description>
+    <FirstStep>Open web-site</FirstStep
+    <SecondStep>pass authorization",
+    "ThirdStep": "Press the button Menu</SecondStep>
+    <FourthStep>Pay attention to the screen</FourthStep>
+    <ExpectedResult>Press the button Menu and see categories of products",
+    "Result": "Press the button Menu and see eror</ExpectedResult>
+  </Description>
+    <Status>Open</Status>
+    <TypeofBug>Functional</TypeofBug>
+</bug_report>
